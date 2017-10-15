@@ -1,0 +1,115 @@
+
+header {
+	height: 100px;
+	background: #bdbdbd;
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+}
+
+#banner {
+	width: 100%;
+	height: 300px;
+	position: static;
+	top: 100px;
+	background: #blue;
+}
+
+#content {
+	width: 100%;
+	position: relative;
+	top: 400px;
+	background: #blue;
+	height: 1500px;
+}
+
+banner {
+margin-bottom: 0px;
+text-align: center;
+background-color: white;
+}
+
+<body>
+<h1> Kappa Tau Alpha </h1>
+img {
+  border: none;
+  width: 50%;
+}
+
+.photo_aside {
+  width: 40%;
+  float: left;
+  margin-right: 10px;
+}
+
+body {
+  background-color: #eaeaea;
+}
+
+
+h1 {
+  font-family: 'Libre Baskerville', Georgia, "Times New Roman", serif;
+  font-size: 32 px;
+}
+
+p {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 14 px;
+}
+
+#container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.caption {
+  font-family: 'Lato', Georgia, "Times New Roman", serif;
+  font-style: italic;
+  text-align: left;
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+#nav {
+  padding: 0;
+}
+
+#nav li {
+  list-style-type:square;
+<div class="w3-bar w3-light-grey">
+  <div class="w3-bar w3-green">
+  <div class="w3-bar w3-blue">
+}
+
+#nav a:link {
+  display: block;
+  color: #white;
+  background-color: #0c4f60;
+  font-weight: bold;
+  text-align: center;
+  font-family: Lato, sans-serif;
+  padding: 4px;
+  text-decoration: none;
+}
+
+#nav a:hover, #nav a:active {
+  background-color: #ffffff;
+  text-decoration: none;
+}
+
+#nav a:link, a:visited{
+  text-decoration: none;
+  color: white;
+}
+
+
+button {
+  background-color: navy;
+	text-decoration: none;
+  color: white;
+  width: 15%;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  border-color: white;
+  border-style: solid;
+
+}
