@@ -106,7 +106,7 @@ ol {
   text-decoration: none;
 }
 
-#nav a:link, a:visited{
+#nav a:link, #nav a:visited{
   text-decoration: none;
   color: white;
 }
