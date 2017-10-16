@@ -78,18 +78,16 @@ p {
 }
 
 .history {
-	width: 100%
-	  <img src="KTA_BGrounds-02.png" alt="history"
+	width: 100%;
+background-image: url("KTA_BGrounds-02.png");
 }
 
 .awards {
 	width: 100%
-	  <img src="KTA_BGrounds-03.png." alt="awards"
 }
 
 .chapters {
 	width: 100%
-	  <img src="KTA_BGrounds-03.png" alt="chapters"
 }
 
 ol {
