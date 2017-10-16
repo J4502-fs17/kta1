@@ -109,7 +109,7 @@ ol {
 
 #nav a:link {
   display: block;
-  color: #white;
+  color: #ffffff;
   background-color: #0c4f60;
   font-weight: bold;
   text-align: center;
@@ -123,9 +123,9 @@ ol {
   text-decoration: none;
 }
 
-#nav a:link, #nav a:visited{
+#nav a:visited {
   text-decoration: none;
-  color: white;
+  color: #ffffff;
 }
 
 
