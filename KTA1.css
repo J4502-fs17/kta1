@@ -70,6 +70,10 @@ p {
   font-size: 12px;
 }
 
+.image_box {
+	width: 400px;
+	float:right;
+}
 
 ol {
 	font-family: 'Lato', Helvetica, Arial, sans-serif;
