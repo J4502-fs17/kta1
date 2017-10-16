@@ -83,11 +83,13 @@ background-image: url("KTA_BGrounds-02.png");
 }
 
 .awards {
-	width: 100%
+	width: 100%;
+	background-image: url("KTA_BGrounds-02.png");
 }
 
 .chapters {
-	width: 100%
+	width: 100%;
+	background-image: url("KTA_BGrounds-02.png");
 }
 
 ol {
