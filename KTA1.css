@@ -31,6 +31,8 @@ text-align: center;
 background-color: white;
 }
 
+
+
 <body>
 <h1> Kappa Tau Alpha </h1>
 img {
@@ -62,6 +64,10 @@ p {
 #container {
   width: 95%;
   margin: 0 auto;
+}
+
+img{
+  border: none;
 }
 
 .caption {
@@ -137,6 +143,6 @@ button {
   font-family: 'Lato', Helvetica, Arial, sans-serif;
   border-color: white;
   border-style: solid;
-direction: center; 
+direction: center;
 
 }
