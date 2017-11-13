@@ -103,6 +103,10 @@ nav {
 	padding: 0;
 }
 
+nav ul {
+	padding: 0;
+}
+
 nav ul li {
 	display: flex;
 	flex-flow: column;
@@ -116,12 +120,17 @@ nav ul li {
 		width: 100%;
 	}
 
-	nav a:hover, nav a:active {
+nav ul a:link {
+	text-decoration: none;
+}
+
+	nav ul a:hover, nav ul a:active {
   background-color: #09353f;
   text-decoration: none;
 }
 
-nav a:visited {
+
+nav ul a:visited {
   text-decoration: none;
   color: #ffffff;
 }
@@ -138,8 +147,12 @@ header {
     order: 1;
     font-size: 1.75em;
     width: 2em;
-		color: #09353f;
-		text-decoration: none;
+    color: #09353f !important;
+}
+
+
+.menu-trigger a:hover{
+	color: #bdbdbd !important;
 }
 
 .menu-trigger a {
