@@ -141,20 +141,30 @@ direction: center;
 
 }
 
-#newsletter{
-	width: 80%;
-}
 
 @media screen and (min-width:800px){
 	.newsletter{
-		float: left;
-		width: 80%
+		width: 100%
 	}
 }
 
 @media screen and (min-width:300px) {
 	.newsletter {
-		float: left;
-		width: 40%;
+		width: 100%;
 	}
+}
+
+@media screen and (min-width: 800px){
+	iframe{
+		width: 900px;
+		height: 600px;
+	}
+}
+
+@@media screen and (min-width: 300px) {
+	iframe{
+		width: 450px;
+		height: 300px;
+	}
+
 }
