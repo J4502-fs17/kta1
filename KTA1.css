@@ -258,7 +258,7 @@ nav ul {
 		}
 
 		.image1 {
-			display: flex;
+			display:block;
 			width: 100%;
 		}
 
