@@ -66,7 +66,7 @@ p {
 }*/
 
 h2 {
-	font-size: 34px;
+	font-size: 30px;
 }
 
 .container1 {
@@ -177,7 +177,6 @@ nav ul li {
 	font-weight: bold;
 	text-align: center;
 	font-family: "Lato", sans-serif;
-	color: white;
 	text-decoration: none;
     padding: 15px 15px 15px 15px;
 		width: 95%;
@@ -185,6 +184,7 @@ nav ul li {
 
 nav ul a:link {
 	text-decoration: none;
+	color:#ffffff;
 }
 
 	nav ul a:hover, nav ul a:active {
