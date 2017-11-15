@@ -59,6 +59,67 @@ p {
   font-size: 14 px;
 }
 
+/*p2 {
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 14 px;
+	color: white;
+}*/
+
+h2 {
+	font-size: 34px;
+}
+
+.container1 {
+	width:100%;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+.HomeAbout {
+	display:flex;
+	Flex-flow: row;
+	wrap:nowrap;
+	background-color: #ADD8E6;
+}
+
+.HomeHistory {
+	display:flex;
+	Flex-flow: row;
+	wrap:nowrap;
+	background-color: #0F4F60;
+	color: white;
+}
+
+.HomeChapters {
+	display:flex;
+	Flex-flow: row;
+	wrap:nowrap;
+	background-color: #ADD8E6;
+}
+
+.HomeAwards {
+	display:flex;
+	Flex-flow: row;
+	wrap:nowrap;
+	background-color: #0F4F60;
+	color: white;
+}
+
+.image1 {
+	width: 100%;
+	display: none;
+}
+
+.fontcolor {
+	color: white;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 14 px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
 #container {
   width: 95%;
   margin: 0 auto;
@@ -101,6 +162,7 @@ nav {
 	float: left;
 	margin: 0 auto;
 	padding: 0;
+
 }
 
 nav ul {
@@ -117,7 +179,7 @@ nav ul li {
 	font-family: "Lato", sans-serif;
 	text-decoration: none;
     padding: 15px 15px 15px 15px;
-		width: 100%;
+		width: 95%;
 	}
 
 nav ul a:link {
@@ -190,7 +252,18 @@ nav ul {
         order: 2;
     }
 
+    .container1 {
+			display: flex;
+		}
+
+		.image1 {
+			display: flex;
+			width: 100%;
+		}
+
 }
+
+
 
 .screen-reader-text {
 	color: #ffffff;
