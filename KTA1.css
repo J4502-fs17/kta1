@@ -96,6 +96,7 @@ h3 {
 	background-color: #0F4F60;
 	color: white;
 	padding: 40px;
+	text-align: right; 
 }
 
 .HomeChapters {
@@ -151,6 +152,8 @@ h2 {
 .History {
 	width: 100%;
 background-image: url("KTA_BGrounds-02.png");
+    float: left;
+		text-align: right;
 }
 
 .Awards {
