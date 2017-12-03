@@ -289,3 +289,20 @@ nav ul {
 		width: 100%;
 	}
 }
+
+.map-wrapper {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+		max-width: 800px;
+		max-height: 600px;
+}
+
+.map-wrapper iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
