@@ -79,6 +79,7 @@ h2 {
 	Flex-flow: row;
 	wrap:nowrap;
 	background-color: #ADD8E6;
+	padding: 40px;
 }
 
 .HomeHistory {
@@ -87,6 +88,7 @@ h2 {
 	wrap:nowrap;
 	background-color: #0F4F60;
 	color: white;
+	padding: 40px;
 }
 
 .HomeChapters {
@@ -94,6 +96,7 @@ h2 {
 	Flex-flow: row;
 	wrap:nowrap;
 	background-color: #ADD8E6;
+	padding: 40px;
 }
 
 .HomeAwards {
@@ -102,6 +105,7 @@ h2 {
 	wrap:nowrap;
 	background-color: #0F4F60;
 	color: white;
+	padding: 40px;
 }
 
 .image1 {
