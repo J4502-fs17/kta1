@@ -1,7 +1,7 @@
 
 header {
 	height: 100px;
-	background: #bdbdbd;
+	background: white;
 	position: fixed;
 	width: 100%;
 	z-index: 10;
@@ -45,7 +45,7 @@ img {
 }
 
 body {
-  background-color: #eaeaea;
+  background-color: white;
 }
 
 
