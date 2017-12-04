@@ -155,6 +155,7 @@ h2 {
 .image_box {
 	width: 400px;
 	float:right;
+	padding-left: 10px;
 }
 
 .History {
@@ -169,7 +170,7 @@ background-image: url("KTA_BGrounds-02.png");
   max-width: 100px;
   float: left;
   margin-right: 10px;
-	margin-left: 10px; 
+	margin-left: 10px;
 }
 
 .Awards {
