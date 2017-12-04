@@ -164,6 +164,14 @@ background-image: url("KTA_BGrounds-02.png");
 		text-align: right;
 }
 
+.historyimages {
+  width: 100%;
+  max-width: 100px;
+  float: left;
+  margin-right: 10px;
+	margin-left: 10px; 
+}
+
 .Awards {
 	width: 100%;
 	background-image:url("KTA_BGrounds-02.png");
