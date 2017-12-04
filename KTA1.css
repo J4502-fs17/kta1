@@ -94,7 +94,7 @@ h3 {
 	background-color: #0F4F60;
 	color: white;
 	padding: 40px;
-	text-align: right;
+
 
 }
 
@@ -129,6 +129,14 @@ h3 {
 
 h2 {
 	margin-top: 0;
+}
+
+
+h4 {
+	border-style:solid;
+	border-radius: 5px;
+	border-color: #0F4F60;
+
 }
 
 #container {
