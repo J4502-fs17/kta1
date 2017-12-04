@@ -2,7 +2,6 @@
 header {
 	height: 100px;
 	background: white;
-	position: fixed;
 	width: 100%;
 	z-index: 10;
 }
@@ -176,10 +175,8 @@ ul {
 
 nav {
 	width: 100%;
-	float: left;
 	margin: 0 auto;
 	padding: 0;
-
 }
 
 nav ul {
