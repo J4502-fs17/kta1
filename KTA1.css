@@ -142,7 +142,9 @@ h2 {
 #container {
   width: 95%;
   margin: 0 auto;
+	max-width: 1200px;
 }
+
 
 .caption {
   font-family: 'Lato', Georgia, "Times New Roman", serif;
@@ -314,12 +316,14 @@ nav ul {
 @media screen and (min-width:800px){
 	.newsletter{
 		width: 100%;
+		text-align: center;
 	}
 }
 
 @media screen and (min-width:300px) {
 	.newsletter {
 		width: 100%;
+		text-align: center;
 	}
 }
 
