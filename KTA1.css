@@ -125,7 +125,6 @@ h3 {
 	color: white;
 	font-family: 'Lato', Helvetica, Arial, sans-serif;
   font-size: 14 px;
-
 }
 
 
@@ -294,13 +293,21 @@ nav ul {
 			display: flex;
 		}
 
-		.image1 {
-			display:block;
-			width: 100%;
-		}
+
+
 
 }
 
+@media screen and (min-width: 800px){
+
+	.image1 {
+		display: block;
+		position: static;
+		width: 100%;
+		padding-left: 15px;
+		text-align: right;
+	}
+}
 
 
 .screen-reader-text {
